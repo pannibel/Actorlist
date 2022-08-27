@@ -15,3 +15,7 @@
     font-weight: bolder;
     font-size: larger;
 }
+
+h2 {
+    cursor: pointer;
+}
